@@ -6,4 +6,4 @@ LITE.cash payment module for Opencart v2.0 and higer
 
 
 ### Installation guide
-http://lite.cash/bs3b/default/join
+http://lite.cash/default/join
